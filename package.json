@@ -1,0 +1,13 @@
+{
+  "name": "discord-news-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that forwards updates from a main channel to multiple servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  }
+} 
