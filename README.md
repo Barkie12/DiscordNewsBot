@@ -29,14 +29,6 @@ DISCORD_TOKEN=your_bot_token_here
 
 ## Usage
 
-### Setting up the main server
-
-1. In your main server (where updates will be sent from), use the command:
-```
-/setmainchannel #channel
-```
-This command requires administrator permissions.
-
 ### Setting up receiving servers
 
 1. In each server where you want to receive updates, use the command:
@@ -47,7 +39,6 @@ This will set the channel where updates will be forwarded to.
 
 ## Commands
 
-- `/setmainchannel #channel` - Set the main channel where updates will be sent from (Admin only)
 - `/updatechannel #channel` - Set the channel where updates will be forwarded to
 
 ## Configuration

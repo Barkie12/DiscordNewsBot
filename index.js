@@ -24,8 +24,8 @@ const client = new Client({
 
 // Hardcoded main server configuration
 const MAIN_SERVER_CONFIG = {
-    guildId: '1146519368969236490', // Replace with your main server's ID
-    channelId: '1162342289834782902' // Replace with your main channel's ID
+    guildId: 'MAINGUILDID', // Replace with your main server's ID
+    channelId: 'MAINCHANNEL/UPDATECHANNELID' // Replace with your main channel's ID
 };
 
 // Load configurations for receiving servers
